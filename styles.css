@@ -1,0 +1,145 @@
+h1 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+}
+h2 {
+    margin: 0;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    font-family: "Arial";
+}
+img {
+    vertical-align: bottom;
+}
+sup {
+    font-size: 0.6em;
+}
+hr {
+    border-color: transparent;
+    border-top-color: #aaaaaa;
+}
+.wrapper {
+    max-width: 1000px;
+}
+.empty {
+    width: 200px;
+    background-color: #dcdce5;
+}
+.header {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+}
+.phone {
+    text-align: right;
+}
+.tel {
+    padding-left: 8px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+    font-family: "Arial";
+    text-decoration: none;
+}
+.contact {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-style: italic;
+    font-family: "Arial";
+    text-align: right;
+}
+.reklama {
+   vertical-align: bottom;
+}
+.empty2 {
+    background-color: #f5f5f5;
+}
+.describtion {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.text{
+    font-size: 14px;
+    line-height: 24px;
+    color: #666666;
+    font-family: "Arial";
+}
+.button {
+    width: 180px;
+    border-radius: 50px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: #fd8300;
+    font-size: 14px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Arial";
+}
+.perevahi {
+    background-color: #ededf5;
+}
+.image {
+    text-align: center;
+    padding-top: 35px;
+}
+.theme {
+    font-size: 14px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+    margin-bottom: 9px;
+}
+.about {
+    height: 58px;
+    padding-right: 11px;
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+    font-family: "Arial";
+    text-align: center;
+    padding-left: 11px;
+
+}
+.montreal {
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+.house1 {
+    padding-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.houseText1 {
+    padding-left: 20px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-right: 30px;
+}
+.house2 {
+    padding-right: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.houseText2 {
+    padding-left: 30px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-right: 20px;
+}
